@@ -1,0 +1,15 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\ue5\\project\\tanks\\source\\tanks\\tankplayercontroller.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ue5\\project\\tanks\\intermediate\\build\\win64\\tankseditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\ue5\\project\\tanks\\intermediate\\build\\win64\\unrealeditor\\development\\tanks\\definitions.tanks.h",
+            "d:\\ue5\\project\\tanks\\source\\tanks\\tankplayercontroller.h",
+            "d:\\ue5\\project\\tanks\\intermediate\\build\\win64\\unrealeditor\\inc\\tanks\\tankplayercontroller.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

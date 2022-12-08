@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\ue5\\project\\tanks\\source\\tanks\\tanksgamemodebase.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ue5\\project\\tanks\\intermediate\\build\\win64\\tankseditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\ue5\\project\\tanks\\intermediate\\build\\win64\\unrealeditor\\development\\tanks\\definitions.tanks.h",
+            "d:\\ue5\\project\\tanks\\source\\tanks\\tanksgamemodebase.h",
+            "d:\\ue5\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\ue5\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\ue5\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "d:\\ue5\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "d:\\ue5\\project\\tanks\\intermediate\\build\\win64\\unrealeditor\\inc\\tanks\\tanksgamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
