@@ -1,0 +1,23 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\ue5\\project\\tanks\\intermediate\\build\\win64\\unrealeditor\\inc\\tanks\\cannon.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ue5\\project\\tanks\\intermediate\\build\\win64\\tankseditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\ue5\\project\\tanks\\intermediate\\build\\win64\\unrealeditor\\development\\tanks\\definitions.tanks.h",
+            "d:\\ue5\\project\\tanks\\source\\tanks\\cannon.h",
+            "d:\\ue5\\project\\tanks\\source\\tanks\\gamestruct.h",
+            "d:\\ue5\\ue_5.0\\engine\\source\\runtime\\coreuobject\\public\\uobject\\noexporttypes.h",
+            "d:\\ue5\\ue_5.0\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "d:\\ue5\\ue_5.0\\engine\\source\\runtime\\core\\public\\math\\unitconversion.h",
+            "d:\\ue5\\ue_5.0\\engine\\source\\runtime\\core\\public\\math\\unitconversion.inl",
+            "d:\\ue5\\ue_5.0\\engine\\source\\runtime\\core\\public\\internationalization\\polyglottextdata.h",
+            "d:\\ue5\\ue_5.0\\engine\\source\\runtime\\coreuobject\\public\\assetregistry\\arfilter.h",
+            "d:\\ue5\\project\\tanks\\intermediate\\build\\win64\\unrealeditor\\inc\\tanks\\gamestruct.generated.h",
+            "d:\\ue5\\project\\tanks\\intermediate\\build\\win64\\unrealeditor\\inc\\tanks\\cannon.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

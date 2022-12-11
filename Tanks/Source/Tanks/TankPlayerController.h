@@ -20,8 +20,20 @@ public:
 
 	virtual void SetupInputComponent() override;
 
+	virtual void Tick(float DeltaSecond) override;
+
+	FVector GetMousePosition() { return MousePos; }
+
 protected:
 	virtual void BeginPlay() override;
 
 	void MoveForward(float Value);
+
+	void MoveRight(float Value);
+
+	void RotateRight(float Value);
+
+	FVector MousePos;
+
+	void Fire();
 };
