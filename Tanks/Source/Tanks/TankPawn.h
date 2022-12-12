@@ -24,6 +24,7 @@ public:
 	void RotateRight(float Value);
 
 	void Fire();
+	void FireSpecial();
 	void SetupCannon(TSubclassOf<ACannon> newCannonClass);
 
 protected:

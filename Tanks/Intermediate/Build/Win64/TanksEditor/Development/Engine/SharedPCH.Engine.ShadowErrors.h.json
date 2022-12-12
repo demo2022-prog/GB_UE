@@ -1,10 +1,10 @@
 {
     "Version": "1.1",
     "Data": {
-        "Source": "d:\\ue5\\project\\tanks\\intermediate\\build\\win64\\tankseditor\\development\\engine\\sharedpch.engine.shadowerrors.cpp",
+        "Source": "d:\\ue5\\gb_ue\\tanks\\intermediate\\build\\win64\\tankseditor\\development\\engine\\sharedpch.engine.shadowerrors.cpp",
         "ProvidedModule": "",
         "Includes": [
-            "d:\\ue5\\project\\tanks\\intermediate\\build\\win64\\tankseditor\\development\\engine\\sharedpch.engine.shadowerrors.h",
+            "d:\\ue5\\gb_ue\\tanks\\intermediate\\build\\win64\\tankseditor\\development\\engine\\sharedpch.engine.shadowerrors.h",
             "d:\\ue5\\ue_5.0\\engine\\source\\runtime\\engine\\public\\enginesharedpch.h",
             "d:\\ue5\\ue_5.0\\engine\\source\\runtime\\core\\public\\containers\\containersfwd.h",
             "d:\\ue5\\ue_5.0\\engine\\source\\runtime\\core\\public\\hal\\platform.h",
@@ -427,6 +427,8 @@
             "d:\\ue5\\ue_5.0\\engine\\source\\runtime\\core\\public\\async\\taskgraphinterfaces.h",
             "d:\\ue5\\ue_5.0\\engine\\source\\runtime\\core\\public\\experimental\\concurrentlinearallocator.h",
             "d:\\ue5\\ue_5.0\\engine\\source\\runtime\\core\\public\\hal\\mallocansi.h",
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.34.31933\\include\\sanitizer\\asan_interface.h",
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.34.31933\\include\\sanitizer\\common_interface_defs.h",
             "d:\\ue5\\ue_5.0\\engine\\source\\runtime\\core\\public\\async\\fundamental\\task.h",
             "d:\\ue5\\ue_5.0\\engine\\source\\runtime\\core\\public\\async\\fundamental\\taskdelegate.h",
             "d:\\ue5\\ue_5.0\\engine\\source\\runtime\\core\\public\\misc\\scopeexit.h",

@@ -1,11 +1,11 @@
 {
     "Version": "1.1",
     "Data": {
-        "Source": "d:\\ue5\\project\\tanks\\intermediate\\build\\win64\\unrealeditor\\inc\\tanks\\tanks.init.gen.cpp",
+        "Source": "d:\\ue5\\gb_ue\\tanks\\intermediate\\build\\win64\\unrealeditor\\inc\\tanks\\tanks.init.gen.cpp",
         "ProvidedModule": "",
-        "PCH": "d:\\ue5\\project\\tanks\\intermediate\\build\\win64\\tankseditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "PCH": "d:\\ue5\\gb_ue\\tanks\\intermediate\\build\\win64\\tankseditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
         "Includes": [
-            "d:\\ue5\\project\\tanks\\intermediate\\build\\win64\\unrealeditor\\development\\tanks\\definitions.tanks.h"
+            "d:\\ue5\\gb_ue\\tanks\\intermediate\\build\\win64\\unrealeditor\\development\\tanks\\definitions.tanks.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
