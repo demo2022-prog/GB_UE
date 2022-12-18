@@ -15,6 +15,7 @@ class TANKS_API ACannon : public AActor
 public:	
 	ACannon();
 	void Fire();
+	void FireSpecial();
 	bool IsReadyToFire();
 	void Reload();
 
@@ -38,6 +39,9 @@ protected:
 
 	UPROPERTY(EditDefaultsOnly, BlueprintReadWrite, Category = "Fire params")
 		float Damage = 1;
+
+	UPROPERTY(EditDefaultsOnly, BlueprintReadWrite, Category = "Fire params")
+		int Ammo = 10;
 
 	UPROPERTY(EditDefaultsOnly, BlueprintReadWrite, Category = "Fire params")
 		ECannonType Type = ECannonType::FireProjectile;

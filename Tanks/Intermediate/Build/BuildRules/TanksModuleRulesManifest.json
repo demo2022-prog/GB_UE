@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"D:\\UE5\\project\\Tanks\\Source\\Tanks\\Tanks.Build.cs",
-		"D:\\UE5\\project\\Tanks\\Source\\Tanks.Target.cs",
-		"D:\\UE5\\project\\Tanks\\Source\\TanksEditor.Target.cs"
+		"D:\\UE5\\GB_UE\\Tanks\\Source\\Tanks\\Tanks.Build.cs",
+		"D:\\UE5\\GB_UE\\Tanks\\Source\\Tanks.Target.cs",
+		"D:\\UE5\\GB_UE\\Tanks\\Source\\TanksEditor.Target.cs"
 	],
 	"EngineVersion": "5.0.3"
 }

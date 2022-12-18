@@ -1,17 +1,18 @@
 ﻿  Using bundled DotNet SDK
   Log file: C:\Users\frits\AppData\Local\UnrealBuildTool\Log.txt
+  Using 'git status' to determine working set for adaptive non-unity build (D:\UE5\GB_UE).
   Building TanksEditor...
   Using Visual Studio 2019 14.29.30147 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
-  [Adaptive Build] Excluded from Tanks unity file: Cannon.cpp, GameStruct.cpp, TankPawn.cpp, TankPlayerController.cpp, Tanks.cpp, TanksGameModeBase.cpp
+  [Adaptive Build] Excluded from Tanks unity file: Cannon.cpp, TankPawn.cpp, TankPlayerController.cpp
   Determining max actions to execute in parallel (6 physical cores, 12 logical cores)
     Executing up to 6 processes, one per physical core
-    Requested 1,5 GB free memory per action, 7,15 GB available: limiting max parallel actions to 4
+    Requested 1,5 GB free memory per action, 6,19 GB available: limiting max parallel actions to 4
   Building 4 actions with 4 processes...
-  [1/4] Compile TankPawn.cpp
+  [1/4] Compile Cannon.cpp
   [2/4] Link UnrealEditor-Tanks.lib
-     Создается библиотека D:\UE5\project\Tanks\Intermediate\Build\Win64\UnrealEditor\Development\Tanks\UnrealEditor-Tanks.lib и объект D:\UE5\project\Tanks\Intermediate\Build\Win64\UnrealEditor\Development\Tanks\UnrealEditor-Tanks.exp
+     Создается библиотека D:\UE5\GB_UE\Tanks\Intermediate\Build\Win64\UnrealEditor\Development\Tanks\UnrealEditor-Tanks.lib и объект D:\UE5\GB_UE\Tanks\Intermediate\Build\Win64\UnrealEditor\Development\Tanks\UnrealEditor-Tanks.exp
   [3/4] Link UnrealEditor-Tanks.dll
-     Создается библиотека D:\UE5\project\Tanks\Intermediate\Build\Win64\UnrealEditor\Development\Tanks\UnrealEditor-Tanks.suppressed.lib и объект D:\UE5\project\Tanks\Intermediate\Build\Win64\UnrealEditor\Development\Tanks\UnrealEditor-Tanks.suppressed.exp
+     Создается библиотека D:\UE5\GB_UE\Tanks\Intermediate\Build\Win64\UnrealEditor\Development\Tanks\UnrealEditor-Tanks.suppressed.lib и объект D:\UE5\GB_UE\Tanks\Intermediate\Build\Win64\UnrealEditor\Development\Tanks\UnrealEditor-Tanks.suppressed.exp
   [4/4] WriteMetadata TanksEditor.target
-  Total time in Parallel executor: 10,90 seconds
-  Total execution time: 11,49 seconds
+  Total time in Parallel executor: 9,79 seconds
+  Total execution time: 10,49 seconds

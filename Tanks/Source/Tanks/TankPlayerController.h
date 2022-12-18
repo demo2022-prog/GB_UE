@@ -36,4 +36,6 @@ protected:
 	FVector MousePos;
 
 	void Fire();
+
+	void FireSpecial();
 };

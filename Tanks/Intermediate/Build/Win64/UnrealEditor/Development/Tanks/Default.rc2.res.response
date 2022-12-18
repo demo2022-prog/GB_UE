@@ -63,5 +63,5 @@
 /DBUILD_ICON_FILE_NAME="\"..\\Build\\Windows\\Resources\\Default.ico\""
 /DPROJECT_COPYRIGHT_STRING="Fill out your copyright notice in the Description page of Project Settings."
 /DPROJECT_PRODUCT_IDENTIFIER=Tanks
-/fo "D:\UE5\project\Tanks\Intermediate\Build\Win64\UnrealEditor\Development\Tanks\Default.rc2.res"
+/fo "D:\UE5\GB_UE\Tanks\Intermediate\Build\Win64\UnrealEditor\Development\Tanks\Default.rc2.res"
 "..\Build\Windows\Resources\Default.rc2"

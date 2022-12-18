@@ -1,4 +1,4 @@
-D:\UE5\project\Tanks\Intermediate\Build\Win64\UnrealEditor\Inc\Tanks\GameStruct.gen.cpp
+D:\UE5\GB_UE\Tanks\Intermediate\Build\Win64\UnrealEditor\Inc\Tanks\GameStruct.gen.cpp
 /I .
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\Engine
 /I Runtime
@@ -251,8 +251,8 @@ D:\UE5\project\Tanks\Intermediate\Build\Win64\UnrealEditor\Inc\Tanks\GameStruct.
 /I Runtime\ClothingSystemRuntimeInterface\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\AnimationDataController
 /I Developer\AnimationDataController\Public
-/I D:\UE5\project\Tanks\Intermediate\Build\Win64\UnrealEditor\Inc\Tanks
-/I D:\UE5\project\Tanks\Source
+/I D:\UE5\GB_UE\Tanks\Intermediate\Build\Win64\UnrealEditor\Inc\Tanks
+/I D:\UE5\GB_UE\Tanks\Source
 /I ThirdParty\mimalloc\include
 /I ThirdParty\LibTiff\Source\Win64
 /I ThirdParty\LibTiff\Source
@@ -273,12 +273,12 @@ D:\UE5\project\Tanks\Intermediate\Build\Win64\UnrealEditor\Inc\Tanks\GameStruct.
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/FI"D:\UE5\project\Tanks\Intermediate\Build\Win64\TanksEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/FI"D:\UE5\project\Tanks\Intermediate\Build\Win64\UnrealEditor\Development\Tanks\Definitions.Tanks.h"
-/Yu"D:\UE5\project\Tanks\Intermediate\Build\Win64\TanksEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"D:\UE5\project\Tanks\Intermediate\Build\Win64\TanksEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-/Fo"D:\UE5\project\Tanks\Intermediate\Build\Win64\UnrealEditor\Development\Tanks\GameStruct.gen.cpp.obj"
-/sourceDependencies D:\UE5\project\Tanks\Intermediate\Build\Win64\UnrealEditor\Development\Tanks\GameStruct.gen.cpp.json
+/FI"D:\UE5\GB_UE\Tanks\Intermediate\Build\Win64\TanksEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/FI"D:\UE5\GB_UE\Tanks\Intermediate\Build\Win64\UnrealEditor\Development\Tanks\Definitions.Tanks.h"
+/Yu"D:\UE5\GB_UE\Tanks\Intermediate\Build\Win64\TanksEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"D:\UE5\GB_UE\Tanks\Intermediate\Build\Win64\TanksEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+/Fo"D:\UE5\GB_UE\Tanks\Intermediate\Build\Win64\UnrealEditor\Development\Tanks\GameStruct.gen.cpp.obj"
+/sourceDependencies D:\UE5\GB_UE\Tanks\Intermediate\Build\Win64\UnrealEditor\Development\Tanks\GameStruct.gen.cpp.json
 /Zc:inline
 /nologo
 /Oi
